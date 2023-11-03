@@ -1,2 +1,3 @@
-# tnt
+# TNT 💣
+
 Terminal Notes &amp; Tasks
